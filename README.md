@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at [portfolioofpankaj.netlify.app](portfolioofpankaj.netlify.app)
+- 👨‍💻 All of my projects are available at ([portfolioofpankaj.netlify.app](https://my-portfolio-pankaj143ps-projects.vercel.app/))
 
 - 💬 Ask me about **my resume**
 
