@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at ([My Portfolio](https:pankaj07.me/))
+- 👨‍💻 All of my projects are available at ([My Portfolio](https://www.pankaj07.me/))
 
 - 💬 Ask me about **my resume**
 
