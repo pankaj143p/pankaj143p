@@ -67,7 +67,7 @@ const pankaj = {
 - 👯 **Looking to collaborate on:** Open source projects and innovative web solutions
 - 💬 **Ask me about:** Full-stack development, React, Node.js, or anything tech-related
 - 📫 **Reach me at:** [pankaj114477pankaj@gmail.com](mailto:pankaj114477pankaj@gmail.com)
-- 🎯 **2025 Goal:** Contribute to more open-source projects and master cloud technologies
+- 🎯 **2026 Goal:** Contribute to more open-source projects and master cloud technologies
 
 ## 🚀 Featured Projects
 
